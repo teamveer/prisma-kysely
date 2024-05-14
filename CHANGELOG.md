@@ -1,5 +1,11 @@
 # prisma-kysely
 
+## 1.8.1
+
+### Patch Changes
+
+- c490e8c: Handle enum primary keys on many-to-many relationships
+
 ## 1.8.0
 
 ### Minor Changes
